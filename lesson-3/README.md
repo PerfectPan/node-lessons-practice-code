@@ -2,7 +2,7 @@
 ## 目标
 建立一个 lesson3 项目，在其中编写代码。
 
-当在浏览器中访问`http://localhost:3000/`时，输出CNode(https://cnodejs.org/)社区首页的所有帖子标题和链接，以`json`的形式。
+当在浏览器中访问`http://localhost:3000/`时，输出CNode([https://cnodejs.org/](https://cnodejs.org/))社区首页的所有帖子标题和链接，以`json`的形式。
 
 输出示例：
 ```json
